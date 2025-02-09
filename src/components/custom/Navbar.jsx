@@ -7,9 +7,7 @@ export default function Navbar() {
   const { status } = useSession();
   return (
     <div className="p-4 flex justify-between items-center shadow-md">
-      <Link className="font-bold text-lg text-blue-700" href={"/"}>
-        nextbolt.new
-      </Link>
+
       {status === "authenticated" ? (
         <button
           onClick={() => signOut()}
