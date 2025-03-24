@@ -38,5 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 This is PREVIEW LINK
 
-
-https://github.com/user-attachments/assets/b684e0fb-4ee3-48b5-94f8-c757c61b8464
+https://github.com/user-attachments/assets/685a2d3d-7edc-4ed4-814f-e657c21ffac9
